@@ -1,6 +1,6 @@
 # Web Developer Profile
 
-![Profile Banner]([https://your-image-url.com/your-banner-image.png](https://avatars.githubusercontent.com/u/61984063?v=4))
+![Profile Banner](https://your-image-url.com/your-banner-image.png](https://avatars.githubusercontent.com/u/61984063?v=4))
 
 ## Overview
 
