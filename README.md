@@ -1,6 +1,6 @@
 # Web Developer Profile
 
-![Profile Banner]([https://your-image-url.com/your-banner-image.png](https://avatars.githubusercontent.com/u/61984063?v=4))
+![Profile Banner](https://avatars.githubusercontent.com/u/61984063?v=4)
 
 ## Overview
 
@@ -49,9 +49,9 @@ I occasionally write about web development and technology on my blog. Check out 
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bijendra-raut267))
+- LinkedIn: [@BijendraRaut]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bijendra-raut267))
 - Email: bijendraut267@email.com
-- Twitter: [@YourTwitterHandle]([https://twitter.com/your-twitter-handle](https://twitter.com/Guru_David_))
+- Twitter: [@Guru_David_]([https://twitter.com/your-twitter-handle](https://twitter.com/Guru_David_))
 
 ## 🌱 Open to Collaborate
 
