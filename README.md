@@ -51,7 +51,7 @@ I occasionally write about web development and technology on my blog. Check out 
 
 - LinkedIn: https://www.linkedin.com/in/bijendra-raut267
 - Email: bijendraut267@email.com
-- Twitter: https://twitter.com/Guru_David_
+- Twitter: https://twitter.com/Bijendraut
 
 ## 🌱 Open to Collaborate
 
