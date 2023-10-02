@@ -49,7 +49,7 @@ I occasionally write about web development and technology on my blog. Check out 
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/bijendra-raut267
+- LinkedIn: https://www.linkedin.com/in/Bijendraut
 - Email: bijendraut267@email.com
 - Twitter: https://twitter.com/Bijendraut
 
