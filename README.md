@@ -28,7 +28,7 @@ Provided a seamless video playback experience with features like full-screen mod
 With React Router DOM, users can easily navigate between pages, discover trending videos, and explore new content.
 
 The YouTube Application Programming Interfaces (APIs) offer users the ability to conduct searches and access detailed information pertaining to videos.
-Implemented debouncing and caching for faster search responses and reduced API calls to enhance user experience. 📲 Live
+Implemented debouncing and caching for faster search responses and reduced API calls to enhance user experience.
 Interpersonal communication in real-time can be facilitated through the use of API-Polling, which is designed to mimic the immersive experience of live chat.
 Implemented a dark theme using Tailwind colours for a better user experience and eye comfort.
 - Technologies Used: ReactJS, Redux Toolkit, JavaScript, Tailwind, API Integration, React Router
@@ -45,7 +45,7 @@ Foodie-Apps comes loaded with a host of cutting-edge features, such as seamless 
 Infinite scrolling, debouncing for optimizing search, and lazy loading for faster load time are important techniques for improving the user experience on a website. These techniques allow for seamless browsing, efficient searches, and quick loading times, which are essential factors in enhancing user satisfaction and engagement. By employing these methods, businesses and academic institutions can ensure that their websites are user-friendly and effective in meeting the needs of their visitors.
 
 I genuinely hope that you find Food-App seamless and helpful to use.
-- Technologies Used: List the technologies and tools used.
+- Technologies Used: ReactJS, Redux ToolKit, JavaScript, API Integration, Config-Driven UI, React Router
 - GitHub Repository: [Link to GitHub Repo](https://github.com/BijendraRaut/Namaste-React/tree/main/Codes)
 
 <!--!![Project 2 Screenshot](https://your-image-url.com/project2-screenshot.png)-->
