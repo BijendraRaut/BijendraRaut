@@ -1,6 +1,6 @@
 # Web Developer Profile
 
-![Profile Banner](https://avatars.githubusercontent.com/u/61984063?v=4)
+<!--![Profile Banner](https://avatars.githubusercontent.com/u/61984063?v=4)-->
 
 ## Overview
 
