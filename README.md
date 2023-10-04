@@ -19,34 +19,43 @@ Hello, I'm [Bijendra Raut](https://github.com/BijendrRaut), a passionate web dev
 
 ## 🌐 Portfolio
 
-### Project 1: [Project Name](https://project-url.com)
+### Project 1: [Video Streaming](https://video-sphere-bijendraut.netlify.app/)
 
-- Description: Briefly describe the project and its purpose.
+- Description:
+🎥 YouTube Video Feed Page: Created a hub for discovering new content with trending and suggested videos.
+🎞 YouTube Video Search Suggestions Page: It is a powerful search suggestion page that helps users find desired content with ease.
+🖥 YouTube Watch Page: Provided a seamless video playback experience with features like full-screen mode and video quality selection.
+🚄 Seamless Navigation: With React Router DOM, users can easily navigate between pages, discover trending videos, and explore new content.
+🌐 YouTube APIs Integration: The YouTube Application Programming Interfaces (APIs) offer users the ability to conduct searches and access detailed information pertaining to videos.
+🧩 Related Suggestions: Implemented debouncing and caching for faster search responses and reduced API calls to enhance user experience. 📲 Live
+📲 Live Chat Simulation: Interpersonal communication in real-time can be facilitated through the use of API-Polling, which is designed to mimic the immersive experience of live chat.
+🌚 Dark theme: Implemented a dark theme using Tailwind colours for a better user experience and eye comfort.
+- Technologies Used: ReactJS, Redux Toolkit, JavaScript, Tailwind, API Integration, React Router
+- GitHub Repository: [Link to GitHub Repo](https://github.com/BijendraRaut/Dev-Youtube)
+
+<!--![Project 1 Screenshot](https://your-image-url.com/project1-screenshot.png)-->
+
+### Project 2: [Food App](dainty-puppy-8712f9.netlify.app/)
+
+- Description:  I am delighted to announce the launch of my new Web App, titled Food-App, created with cutting-edge technologies such as React JS and Tailwind CSS. This platform is a food delivery service similar to Swiggy, designed to make it easy for you to search for and order your favorite foods, even for your loved ones in other cities.
+
+Foodie-Apps comes loaded with a host of cutting-edge features, such as seamless bundling with a parcel bundler, seamless operation with functional components, inbuilt hooks, and custom hooks. The app also features seamless fetching of restaurant lists and menus using Swiggy's Public API and seamless listing of menu items from selected restaurants with custom hooks like useRestaurant. Shimmer facilitates a seamless UI experience, seamless routing is enabled with React Router, seamless state management is ensured with Redux Toolkit, and seamless fetching of Swiggy Live API Data from Swiggy Public APIs is made possible with CORS Extension.
+
+Infinite scrolling, debouncing for optimizing search, and lazy loading for faster load time are important techniques for improving the user experience on a website. These techniques allow for seamless browsing, efficient searches, and quick loading times, which are essential factors in enhancing user satisfaction and engagement. By employing these methods, businesses and academic institutions can ensure that their websites are user-friendly and effective in meeting the needs of their visitors.
+
+I genuinely hope that you find Food-App seamless and helpful to use.
 - Technologies Used: List the technologies and tools used.
-- GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/project-repo)
+- GitHub Repository: [Link to GitHub Repo](https://github.com/BijendraRaut/Namaste-React/tree/main/Codes)
 
-![Project 1 Screenshot](https://your-image-url.com/project1-screenshot.png)
-
-### Project 2: [Project Name](https://project-url.com)
-
-- Description: Briefly describe the project and its purpose.
-- Technologies Used: List the technologies and tools used.
-- GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/project-repo)
-
-![Project 2 Screenshot](https://your-image-url.com/project2-screenshot.png)
-
-### More Projects
-
-- [Project 3](https://project-url.com): Description of the project.
-- [Project 4](https://project-url.com): Description of the project.
-
+<!--!![Project 2 Screenshot](https://your-image-url.com/project2-screenshot.png)-->
+<!--
 ## 📚 Blog
 
 I occasionally write about web development and technology on my blog. Check out some of my recent posts:
 
 - [Title of Blog Post 1](https://blog-url.com/post-1)
 - [Title of Blog Post 2](https://blog-url.com/post-2)
-
+-->
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/Bijendraut
