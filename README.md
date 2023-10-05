@@ -67,3 +67,6 @@ I occasionally write about web development and technology on my blog. Check out 
 I'm always open to collaborating on interesting web development projects. If you have a project in mind or just want to connect, feel free to reach out to me.
 
 Let's build the web together! 💻🌐
+## Coding Platforms
+- LeetCode: https://leetcode.com/bijendraut
+- Replit: https://replit.com/@BijendraRaut
