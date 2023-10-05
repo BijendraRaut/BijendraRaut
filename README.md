@@ -13,7 +13,6 @@ Hello, I'm [Bijendra Raut](https://github.com/BijendrRaut), a passionate web dev
 - **Database:** MongoDB, PostgreSQL, MySQL, GraphQL
 - **UI/UX Design:** Figma, Adobe XD, Sketch
 - **Version Control:** Git, GitHub
-- **Web Accessibility:** WCAG 2.0, ARIA
 - **Testing:** Jest, Cypress, Enzyme, React Testing Library
 - **Deployment:** Heroku, Netlify, AWS
 
