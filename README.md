@@ -43,7 +43,6 @@ Foodie-Apps comes loaded with a host of cutting-edge features, such as seamless 
 
 Infinite scrolling, debouncing for optimizing search, and lazy loading for faster load time are important techniques for improving the user experience on a website. These techniques allow for seamless browsing, efficient searches, and quick loading times, which are essential factors in enhancing user satisfaction and engagement. By employing these methods, businesses and academic institutions can ensure that their websites are user-friendly and effective in meeting the needs of their visitors.
 
-I genuinely hope that you find Food-App seamless and helpful to use.
 - Technologies Used: ReactJS, Redux ToolKit, JavaScript, API Integration, Config-Driven UI, React Router
 - GitHub Repository: [Link to GitHub Repo](https://github.com/BijendraRaut/Namaste-React/tree/main/Codes)
 
