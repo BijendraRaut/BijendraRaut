@@ -10,10 +10,9 @@ Hello, I'm [Bijendra Raut](https://github.com/BijendrRaut), a passionate web dev
 
 - **Frontend Development:** HTML, CSS, JavaScript, React
 - **Backend Development:** Node.js, Express.js
-<!--- **Database:** MongoDB, PostgreSQL, MySQL, GraphQL-->
 - **UI/UX Design:** Figma, Adobe XD, Sketch
 - **Version Control:** Git, GitHub
-- **Testing:** Jest, Cypress, Enzyme, React Testing Library
+- **Testing:** Jest, Enzyme, React Testing Library
 - **Deployment:** Heroku, Netlify, AWS
 
 ## 🌐 Portfolio
