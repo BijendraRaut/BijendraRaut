@@ -34,8 +34,8 @@ Implemented a dark theme using Tailwind colours for a better user experience and
 
 <!--![Project 1 Screenshot](https://your-image-url.com/project1-screenshot.png)-->
 
-### Project 2: [Food App](dainty-puppy-8712f9.netlify.app/)
-
+### Project 2: [Food App]
+<!--(dainty-puppy-8712f9.netlify.app/)-->
 - Description:  I am delighted to announce the launch of my new Web App, titled Food-App, created with cutting-edge technologies such as React JS and Tailwind CSS. This platform is a food delivery service similar to Swiggy, designed to make it easy for you to search for and order your favourite foods, even for your loved ones in other cities.
 
 Foodie-Apps comes loaded with a host of cutting-edge features, such as seamless bundling with a parcel bundler, seamless operation with functional components, inbuilt hooks, and custom hooks. The app also features seamless fetching of restaurant lists and menus using Swiggy's Public API and seamless listing of menu items from selected restaurants with custom hooks like useRestaurant. Shimmer facilitates a seamless UI experience, seamless routing is enabled with React Router, seamless state management is ensured with Redux Toolkit, and seamless fetching of Swiggy Live API Data from Swiggy Public APIs is made possible with CORS Extension.
