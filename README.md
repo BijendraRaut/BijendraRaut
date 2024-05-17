@@ -15,7 +15,7 @@ Hello, I'm [Bijendra Raut](https://github.com/BijendrRaut), a passionate web dev
 - **Testing:** Jest, Enzyme, React Testing Library
 - **Deployment:** Heroku, Netlify, AWS
 
-## 🌐 Portfolio
+## 🌐 Projects
 
 ### Project 1: [Video Streaming](https://video-sphere-bijendraut.netlify.app/)
 
