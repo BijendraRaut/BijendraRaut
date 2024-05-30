@@ -10,12 +10,11 @@ Hello, I'm [Bijendra Raut](https://github.com/BijendrRaut), a passionate web dev
 
 - **Frontend Development:** HTML, CSS, JavaScript, React
 - **Backend Development:** Node.js, Express.js
-- **UI/UX Design:** Figma, Adobe XD, Sketch
 - **Version Control:** Git, GitHub
 - **Testing:** Jest, Enzyme, React Testing Library
 - **Deployment:** Heroku, Netlify, AWS
 
-## 🌐 Projects
+## 🌐 Project
 
 ### Project 1: [Video Streaming](https://video-sphere-bijendraut.netlify.app/)
 
