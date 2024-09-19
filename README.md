@@ -4,7 +4,7 @@
 
 ## Overview
 
-Hello, I'm [Bijendra Raut](https://github.com/BijendrRaut), a passionate web developer with a strong background in creating responsive and interactive web applications. I love turning ideas into functional and visually appealing websites, and I'm constantly exploring new technologies to improve my skills.
+Hello, I'm [Bijendra Raut](https://github.com/BijendraRaut), a passionate web developer with a strong background in creating responsive and interactive web applications. I love turning ideas into functional and visually appealing websites, and I'm constantly exploring new technologies to improve my skills.
 
 ## 🔧 Skills
 
