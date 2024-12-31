@@ -42,10 +42,7 @@ I occasionally write about web development and technology on my blog. Check out 
 - [Title of Blog Post 2](https://blog-url.com/post-2)
 -->
 ## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/Bijendraut
 - Email: bijendraut267@email.com
-- Twitter: https://twitter.com/Bijendraut
 
 ## 🌱 Open to Collaborate
 
