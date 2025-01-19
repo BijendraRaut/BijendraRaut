@@ -3,7 +3,10 @@
 <!--![Profile Banner](https://avatars.githubusercontent.com/u/61984063?v=4)-->
 
 ## Overview
-![Profile Views](https://komarev.com/ghpvc/?username=BijendraRaut&color=blue)
+👁️ **Profile Views**:  
+![Profile Views](https://komarev.com/ghpvc/?username=BijendraRaut&color=orange&style=for-the-badge)  
+![Cool Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 
 Hello, I'm [Bijendra Raut](https://github.com/BijendraRaut), a passionate web developer with a strong background in creating responsive and interactive web applications. I love turning ideas into functional and visually appealing websites, and I'm constantly exploring new technologies to improve my skills.
 
