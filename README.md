@@ -3,16 +3,8 @@
 <!--![Profile Banner](https://avatars.githubusercontent.com/u/61984063?v=4)-->
 
 ## Overview
-## 🌟 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=BijendraRaut&color=brightgreen&style=for-the-badge)
 
-- 👀 **Profile Views**:  
-  ![Profile Views](https://komarev.com/ghpvc/?username=BijendraRaut&color=ff69b4&style=for-the-badge)
-
-- 📈 **GitHub Stats**:  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BijendraRaut&show_icons=true&theme=radical)
-
-- 💻 **Top Languages**:  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BijendraRaut&layout=compact&theme=radical)
 
 
 
