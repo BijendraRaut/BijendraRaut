@@ -3,6 +3,7 @@
 <!--![Profile Banner](https://avatars.githubusercontent.com/u/61984063?v=4)-->
 
 ## Overview
+![Profile Views](https://komarev.com/ghpvc/?username=BijendraRaut&color=blue)
 
 Hello, I'm [Bijendra Raut](https://github.com/BijendraRaut), a passionate web developer with a strong background in creating responsive and interactive web applications. I love turning ideas into functional and visually appealing websites, and I'm constantly exploring new technologies to improve my skills.
 
@@ -52,3 +53,6 @@ Let's build the web together! 💻🌐
 ## Coding Platforms
 - LeetCode: https://leetcode.com/bijendraut
 - Replit: https://replit.com/@BijendraRaut
+<a href="https://hits.link/">
+  <img src="https://hits.link/hits?url=https://replit.com/@BijendraRaut" alt="Profile Hits">
+</a>
