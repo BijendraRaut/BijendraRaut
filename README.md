@@ -3,9 +3,17 @@
 <!--![Profile Banner](https://avatars.githubusercontent.com/u/61984063?v=4)-->
 
 ## Overview
-👁️ **Profile Views**:  
-![Profile Views](https://komarev.com/ghpvc/?username=BijendraRaut&color=orange&style=for-the-badge)  
-![Cool Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+## 🌟 Profile Stats
+
+- 👀 **Profile Views**:  
+  ![Profile Views](https://komarev.com/ghpvc/?username=BijendraRaut&color=ff69b4&style=for-the-badge)
+
+- 📈 **GitHub Stats**:  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BijendraRaut&show_icons=true&theme=radical)
+
+- 💻 **Top Languages**:  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BijendraRaut&layout=compact&theme=radical)
+
 
 
 Hello, I'm [Bijendra Raut](https://github.com/BijendraRaut), a passionate web developer with a strong background in creating responsive and interactive web applications. I love turning ideas into functional and visually appealing websites, and I'm constantly exploring new technologies to improve my skills.
