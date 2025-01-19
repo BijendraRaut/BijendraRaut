@@ -1,9 +1,9 @@
-# Web Developer Profile
+# Web Developer Profile  
 
 <!--![Profile Banner](https://avatars.githubusercontent.com/u/61984063?v=4)-->
 
-## Overview
-![Profile Views](https://komarev.com/ghpvc/?username=BijendraRaut&color=brightgreen&style=for-the-badge)
+## Overview ![Profile Views](https://komarev.com/ghpvc/?username=BijendraRaut&color=brightgreen&style=for-the-badge)
+
 
 
 
