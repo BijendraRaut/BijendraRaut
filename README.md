@@ -56,6 +56,4 @@ Let's build the web together! 💻🌐
 ## Coding Platforms
 - LeetCode: https://leetcode.com/bijendraut
 - Replit: https://replit.com/@BijendraRaut
-<a href="https://hits.link/">
-  <img src="https://hits.link/hits?url=https://replit.com/@BijendraRaut" alt="Profile Hits">
-</a>
+
